@@ -1,0 +1,25 @@
+body {background-image: url(hotel2.jpg);}
+body {background-size:  cover ;}
+h1 {font-size:70px;} 
+h1 { text-align: center;}
+h1 {text-shadow: 2px 2px 2px rgb(236, 4, 4);}
+P {text-align: center;}
+p{text-shadow: 1px 1px 1px black  ;}
+p {color: rgb(209, 120, 120);}
+p { font-size: 25px;}
+a{color: azure;}
+.p1 { text-align: center;}
+
+.a1:link, a:visited {
+    background-color: transparent;
+    color : black;
+    border: 2px solid red;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;}
+.a1:hover, .a1:active {
+    background-color: red ;
+    color: white;}
+.p2{text-align-last: right;}
+a:hover {  color: rgb(209, 120, 120) ;}

@@ -1,0 +1,40 @@
+body { background-image: url(226050326.jpg);}
+     body {background-size: 51cm}
+.body1 {background-image: url(contacte.jpg);}
+h1{color: azure;}
+h1 { text-align: center;}
+ .monospace { font-family: 'Courier New', Courier, monospace;}
+ h1 { font-size: 55px;}
+p {color:white;}
+p{font-size: 30px}
+p{text-align: center;}
+h2 {color:   goldenrod   ;}
+h2 {text-align: center;}
+h2 { font-size: 30px;}
+h3 {color:   goldenrod   ;}
+h3{text-align: center ;}
+h3{font-size: 30px;}
+h4 {color:   goldenrod   ;}
+H4 {text-shadow: 2PX 2PX black;}
+h4{text-align: center ;}
+h4{font-size: 35px;}
+h5 {color:   goldenrod   ;}
+h5 {text-shadow: 3PX 3PX  black;}
+h5{text-align: center ;}
+h5{font-size: 35px;}
+h6 {color:   goldenrod   ;}
+h6 {text-shadow: 3PX 3PX  black;}
+h6{text-align: center ;}
+h6{font-size: 35px;}
+.p1 {color:   goldenrod   ;}
+.p1 {text-shadow: 3PX 3PX  black;}
+.p1 {text-align: center ;}
+.p1{font-size: 35px;}
+ul {color: goldenrod;}
+ul{font-weight: bold;}
+ul{text-shadow: 5px 2px  black;}
+A {color: goldenrod;}
+ul { font-size: 30px}
+ul{ text-align: center;}
+.a1 {text-align: right;}
+.a2 {text-align: left;}
